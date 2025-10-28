@@ -8,15 +8,15 @@ MM-GSU (Multi-Modal Gated Semantic Understanding Network) is a multi-modal learn
 ## File Structure
 
 MM-GSU/
-├── datasets/             # Contains traffic parameter and image feature datasets
-│   ├── traffic/          # Traffic parameter dataset with 30 folders, each containing multiple traffic data files
-│   └── images/           # Image feature dataset with 30 folders, each containing multiple image data files
-├── images/               # Stores images from the paper (e.g., charts, experimental results)
-├── src/                  # Contains code for model training and prediction
-│   └── MM-GSU.py         # Main script for model training and prediction
-├── .gitignore            # Git ignore file
-├── LICENSE               # License file
-├── README.md             # Project description document
+├── datasets/             # Contains traffic parameter and image feature datasets  
+│   ├── traffic/          # Traffic parameter dataset with 30 folders, each containing multiple traffic data files  
+│   └── images/           # Image feature dataset with 30 folders, each containing multiple image data files  
+├── images/               # Stores images from the paper (e.g., charts, experimental results)  
+├── src/                  # Contains code for model training and prediction  
+│   └── MM-GSU.py         # Main script for model training and prediction  
+├── .gitignore            # Git ignore file  
+├── LICENSE               # License file  
+├── README.md             # Project description document  
 
 ## Datasets
 
@@ -36,3 +36,6 @@ You can clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Haonan-Wang-sdjt/MM-GSU.git
+
+
+
