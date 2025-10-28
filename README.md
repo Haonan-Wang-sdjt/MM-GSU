@@ -22,12 +22,11 @@ MM-GSU/
 
 ### Traffic Parameter Dataset (`datasets/traffic/`)
 
-This dataset contains 30 folders, each representing a traffic area. Each folder contains multiple traffic parameter data files, which are used for traffic flow analysis and prediction tasks. The data format and content can be adjusted based on specific needs.
+This dataset contains 30 folders, each representing a set of data. Each folder includes multiple traffic parameter data files, which are used for traffic flow analysis and prediction tasks. The data format and content can be adjusted according to specific requirements.
 
 ### Image Feature Dataset (`datasets/images/`)
 
-This dataset also contains 30 folders, each representing a different set of image data. Each folder contains multiple image files that are used for image feature extraction and classification tasks. These image data can be further analyzed using deep learning models.
-
+This dataset also contains 30 folders, which correspond to the folders of the traffic parameter dataset. Each folder represents a distinct set of image data and includes multiple image features. These image feature data can be further analyzed using deep learning models.
 ## Installation
 
 ### Clone the Repository
