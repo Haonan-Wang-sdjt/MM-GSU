@@ -27,6 +27,11 @@ This dataset contains 30 folders, each representing a set of data. Each folder i
 ### Image Feature Dataset (`datasets/images/`)
 
 This dataset also contains 30 folders, which correspond to the folders of the traffic parameter dataset. Each folder represents a distinct set of image data and includes multiple image features. These image feature data can be further analyzed using deep learning models.
+
+## src
+
+The `src` directory contains the code responsible for training and predicting using the **Multi-Modal Gated Semantic Understanding Network (MM-GSU)**. The main script `MM-GSU.py` is designed to be easily adaptable for different datasets by modifying a few key paths.
+
 ## Installation
 
 ### Clone the Repository
